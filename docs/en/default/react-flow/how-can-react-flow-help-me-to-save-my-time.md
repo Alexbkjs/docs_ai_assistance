@@ -8,22 +8,17 @@ order: 34
 status: published
 ---
 
-Articles on: [React Flow](/en/category/react-flow-2kjdy9/)
 
-# How can React Flow help me to save my time?
+# Automate Workflows and Save Time
 
-# Automate Workflows And Save Time
+React Flow automates various workflows, handling repetitive tasks that merchants typically manage manually or delegate to employees.
 
-React Flow automates various workflows, optimizing repetitive tasks that merchants typically handle manually or delegate to employees.
+For example, you can automatically track product stock levels, add tags, send required notifications or emails to customers, and more. You spend time setting up the workflow once, and the application handles it automatically from then on.
 
-For example, you can automatically track the quantity of products in stock, add tags, send required notifications or emails to customers, etc. You need to spend time once setting up the workflow you are interested in and the application will perform them automatically.
-
-In our Help Center, you can read about the [Most Popular Flows](/most-popular-flows).
+In our Help Center, you can read about the [Most Popular Flows](/react-flow/most-popular-flows).
 
 ## Suggested articles
 
-*   [Getting started in React Flow](/getting-started-in-react-flow)
-*   [Most popular flows](/most-popular-flows)
-*   [React Flow Triggers & Actions](/react-flow-triggers-actions)
-
-Updated on: 06/12/2024
+*   [Getting started in React Flow](/react-flow/getting-started-in-react-flow)
+*   [Most popular flows](/react-flow/most-popular-flows)
+*   [React Flow Triggers & Actions](/react-flow/react-flow-triggers-actions)

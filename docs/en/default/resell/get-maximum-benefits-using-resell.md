@@ -8,146 +8,122 @@ order: 6
 status: published
 ---
 
-Articles on: [ReSell](/en/category/resell-c6d2uz/)
-
-# Get maximum benefits using ReSell
 
 # Boost your sales with ReSell
 
-****In this article:****
+Upsell strategies are an effective marketing tool that improves the customer experience and helps you increase your average order value (AOV). This article shows you how [ReSell](https://apps.shopify.com/resell) can help you grow profits and build customer trust and loyalty.
 
-*   [What is upsell and cross-sell](#1-what-is-upsell-and-cross-sell)
-*   [Post-purchase & checkout upsells](#1-post-purchase-checkout-upsells)
-*   [The right choice of product bundles](#1-the-right-choice-of-product-bundles)
-*   [Help customers to find product they want](#1-help-customers-to-find-product-they-want)
-*   [Promote trending products](#1-promote-trending-products)
-*   [Keep inventory moving](#1-keep-inventory-moving)
-*   [Always use downsell](#1-always-use-downsell)
-*   [Offer personalization](#1-offer-personalization)
-*   [Take full advantage](#1-take-full-advantage)
-*   [Activity tracking](#1-activity-tracking)
-*   [A few tips for upsell & cross-sell](#1-a-few-tips-for-upsell-amp-cross-sell)
-*   [Next step](#1-next-step)
+## What is upsell and cross-sell
 
-Upsell strategies are an effective marketing tool that improves customer experience and allows you to increase AOV. In this article, we are going to show you how [ReSell](https://apps.shopify.com/resell) can help you to grow profits and build customer trust and loyalty.
+**Upsell** — a strategy that offers a customer an additional purchase of a product they already bought (for example, a customer buys a cup and you offer them another cup or the same cup at a discount).
 
-# ✔️ What is upsell and cross-sell
+**Cross-sell** — a strategy that offers a customer a complementary product alongside their existing order (for example, a customer buys a cup and you offer them a spoon or saucer).
 
-****Upsell**** - a strategy that offers a customer to purchase an additional product that was previously purchased (a customer buys a cup and you offer to buy one more cup or the same cup at a discount).
+With ReSell, you can build both upsell and cross-sell funnels to maximize your results.
 
-****Cross-sell**** - a strategy that offers a customer to purchase an additional product to the existing order (a customer buys a cup and you offer to buy a spoon or saucer).
+## Post-purchase & checkout upsells
 
-With the help of ReSell, you can build both upsell & cross-sell funnels and get maximum benefits.
+ReSell gives you two ways to add upselling:
 
-# ✔️ Post-purchase & checkout upsells
+*   Offer additional products on the checkout page.
+*   Offer additional products on the Thank you page after the purchase.
 
-ReSell provides you with two ways to add upselling:
+Both are effective marketing tools. We recommend trying both to see which works best for your store.
 
-*   Offer additional products on the checkout page
-*   Offer additional products on the Thank you page after the purchase
-
-Both of them are effective marketing tools. We recommend you to try both to check which one works best for your store.
-
-But how exactly can ReSell help achieve these goals? We will talk about this further.
-
-# ✔️ The right choice of product bundles
+## The right choice of product bundles
 
 There are two offer types in ReSell: Auto and Manual.
 
-When you select an [automatic option](/how-does-the-auto-recommendation-work), you run an offer with automatically suggested product based on [Shopify product recommendations](https://shopify.dev/docs/themes/product-merchandising/recommendations). This is very convenient and requires only a couple of mouse clicks. However, there is a risk that additional products may not be suitable for the main one. For example, you are selling a bicycle, and in the upselling offer the buyer is recommended to buy additional laces.
+When you select the [automatic option](/resell/how-does-the-auto-recommendation-work), the app runs an offer with automatically suggested products based on [Shopify product recommendations](https://shopify.dev/docs/themes/product-merchandising/recommendations). This is convenient and requires only a few clicks. However, there is a risk that the suggested products may not be well-matched to the main item — for example, offering laces to someone who bought a bicycle.
 
-Manual option assumes that you manually set up upsell funnels. You will be prompted to select a trigger product, and additional products that you want to place on upsell and/or cross-sell offer. It allows you to set up more precise recommendations. Because using the application, you can manually set up the funnels and choose the most suitable products for the post-purchase offer.
+The manual option lets you set up upsell funnels yourself. You choose a trigger product and the additional products to display in your upsell or cross-sell offer. This allows for more precise recommendations, since you control exactly what is paired with what.
 
-For example, when a customer buys a particular product, we offer to buy another product. It makes sense to sell laces for sneakers but not an iPhone for laces. If you want to slightly diversify the choice for the buyer, you can offer the collection from which the buyer will choose any product. For instance, a customer buys an iPhone 14 and you offer them a collection with phone cases that suit this model of the phone.
+For example, when a customer buys a specific product, you can offer a closely related one. It makes sense to sell laces for sneakers, but not an iPhone for laces. If you want to give the buyer more choice, you can offer a collection — for instance, when a customer buys an iPhone 14, you offer them a collection of compatible phone cases.
 
-So, in the manual setting, you choose what to sell with what and offer related products.
+In manual mode, you decide what to sell alongside what and ensure your recommendations are relevant.
 
-Note, that all subsequent paragraphs will relate mainly to the manual offer type.
+Note: all subsequent sections relate primarily to the manual offer type.
 
-# ✔️ Help customers to find product they want
+## Help customers find the products they want
 
-This item applies mainly to medium and large stores. Since they are filled with a large number of products, the buyer may not notice something and the post-purchase offers can help them.
+This is especially relevant for medium and large stores. With a large product catalog, customers may overlook items they'd actually want — and post-purchase offers can surface them.
 
-****Funnel examples:****
+**Funnel examples:**
 
-*   A customer buys a t-shirt and you offer the similar t-shirt but with a trending print or in another color. And perhaps the buyer will buy one more t-shirt simply because it suits their needs.
-*   Your customer buys a dress and on the post-purchase offer they sees some accessories that would go well with this product. In this way you will make it easier for the buyer to find the necessary products.
+*   A customer buys a t-shirt and you offer a similar t-shirt with a trending print or in another color. The customer may purchase a second t-shirt because it suits their needs.
+*   A customer buys a dress and the post-purchase offer displays accessories that pair well with it, making it easier for them to find what they need.
 
-# ✔️ Promote trending products
+## Promote trending products
 
-As we said before, post-purchase offers can help to increase AOV. Furthermore, it can enhance a trending product and boost its sales without spending on advertising.
+Post-purchase offers can boost a trending product's sales without additional advertising spend.
 
-You can ask - But how is this possible? Let’s consider.
+**Funnel examples:**
 
-****Funnel examples:****
+*   A customer buys a trendy basic dress and your upsell offer shows a matching jacket or the same dress in another color.
+*   When a customer buys a trending smartphone, you can offer a phone case at a discount. This is a nice bonus for the customer that builds loyalty and encourages future visits. At the same time, it increases the total order value. With ReSell, you can create a cross-sell funnel around a trending product without spending on advertising.
 
-*   A customer wants to buy a trendy basic dress and your upsell offer displays a jacket that suits this dress or the same basic dress in another color.
-*   When a customer buys a trending smart phone you can offer them a phone case with a discount. On the one hand, this will be a nice bonus for the customer, which will increase the customer's loyalty to your store and inspire him to visit your site in the future. On the other hand, you increased the total cost of the order and got the customer interested in buying from you again. So, thanks to the ReSell application you will not need to spend money on additional advertising. It will be enough to create a cross-sell funnel with a trending product.
+## Keep inventory moving
 
-# ✔️ Keep inventory moving
+Every merchant faces the challenge of slow-moving products sitting in the warehouse. Bundling less popular products with trending ones is an effective way to promote and sell both.
 
-This point goes hand in hand with the previous one. Every merchant is faced with the problem that some products are sold well, and some are gathering dust in the warehouse for a long time. Therefore, bundling not popular products with trending products is a good way to promote and sell both.
+**Funnel examples:**
 
-****Funnel examples:****
+*   A customer buys a t-shirt and you offer a two-pack bundle at a discount. They pay more than planned, but receive two t-shirts at a reduced price.
+*   A customer buys socks and you offer them a second pair at a discount.
 
-*   A customer buys a t-shirt and you offer to buy a two-pack bundle at a discount. He will pay more than he planned, but he will receive two t-shirts instead of one at a discount.
-*   A customer decides to buy socks and you can offer them to buy another pair of socks with a discount.
+This approach helps you move more products and sell items that are not in high demand on their own.
 
-In this way you will be able to introduce more products into circulation and sell those that are not in high demand.
+## Always use downsell
 
-# ✔️ Always use downsell
+**Downsell** — a post-purchase offer shown to a customer after they decline your initial upsell offer. A downsell typically offers a product at a larger discount or proposes an alternative product.
 
-****Downsell**** - a post-purchase offer that you make to the potential customer after he has declined your initial upsell offer. As a rule, downsell offer provides a product with a discount greater than in the previous offer or proposes an alternative product.
+**Funnel examples:**
 
-****Funnel examples:****
+*   A customer buys a cup. In the upsell offer, you propose the same cup with a 10% discount. The customer declines, so you show a downsell offer with a 20% discount.
+*   A customer buys a cup. In the upsell offer, you propose the same cup with a 10% discount. The customer declines, so in the downsell offer you display a spoon or a saucer instead.
 
-*   Downsell offer: a customer buys a cup, in the upsell offer you propose another cup with 10% discount. The customer declines this upsell offer and you display them a downsell offer where propose to buy a cup with 20% discount.
-*   Offer alternative product: a customer buys a cup, in the upsell offer you propose another cup with 10% discount. The customer declines this upsell offer and in the downsell offer you display them a spoon or a saucer.
+## Offer personalization
 
-# ✔️ Offer personalization
+ReSell lets you create personalized funnels that show specific products to specific audiences. In the first step of funnel creation, you choose a trigger product. In the second step, you select **conditions** to personalize the offer. In the third step, you select products for your upsell, cross-sell, and downsell offers.
 
-ReSell provides various options for creating not just funnels, but personalized funnels where you can offer specific products for a specific audience. In the first step of creating a funnel, you choose a trigger product that will launch the funnel. In the second step, you select the ****condition**** that will allow you to create a personalized post-purchase offer. And the third step - selecton of products for upsell, cross-sell, and downsell offers.
+**Funnel examples:**
 
-****Funnel examples:****
-
-*   By country: if a customer orders to France, in the upsell offer you propose them to buy one more t-shirt with a picture of the Eiffel Tower. You can do this for every country. Another example - a customer orders a t-shirt to Japan, you can offer them another t-shirt or a related product with image of sakura or Mount Fuji. And respectively when a customer orders a t-shirt to the USA, in the upsell offer you propose them to buy one more t-shirt with a picture of the Statue of liberty.
-*   Based on product data: if an order contains a specific product, offer another specific product. A customer orders a summer dress, in the upsell & cross-sell offers we will display only summer collection.
+*   By country: if a customer orders from France, your upsell offer can display a t-shirt featuring the Eiffel Tower. You can do this for any country — for example, offer sakura or Mount Fuji designs for orders to Japan, or a Statue of Liberty design for orders to the USA.
+*   Based on product data: if an order contains a specific product, offer another specific product. For instance, if a customer orders a summer dress, display only items from the summer collection in your upsell and cross-sell offers.
 
 ![Example of conditions](https://cdn.heymantle.com/docs/screenshots/318a3aaa-d391-4118-b706-972a2dfc03b7/choose-condition_25ljz.png)
 
-# ✔️ Take full advantage
+## Take full advantage
 
-In the previous paragraphs we talked mainly about manual setup, where you choose triggers, conditions and specific products for upsell, cross-sell, and downsell offers. And now let's get back to the automatic sales funnel.
+The sections above focus mainly on manual setup, where you choose triggers, conditions, and specific products for your offers. Now let's revisit the automatic sales funnel.
 
-Let's imagine a situation where you've created the following funnel: if a customer orders a white t-shirt to France, offer them another t-shirt with a picture of the Eiffel Tower. But if a customer orders the same white t-shirt to Italy, your offer will not be shown to them. So, you cannot predict people from which countries or regions of your country will order products from your store. Of course, you can set up such funnels for each country, but this will take a lot of time and most likely will not justify the effort. In this case, it is very convenient to have a funnel with an automatic offer shown regardless of the purchased products. So, if the buyer orders ANY product from the store, they will see a post-purchase offer anyway.
+Imagine you've created a funnel: if a customer orders a white t-shirt to France, offer them a t-shirt with the Eiffel Tower. But if a customer orders the same t-shirt to Italy, your offer won't be shown to them. You can't predict which countries your orders will come from, and setting up a funnel for every country would be time-consuming. In this case, it's useful to have an automatic funnel that shows regardless of the product purchased — so any customer who buys anything from your store will always see a post-purchase offer.
 
-Note, that you can manage the priority of funnels (inside the app you can find manage priority option). If you set a high priority for a manual offer, it will be shown first. If the automatic offer has the highest priority - in this situation we will check if the order is suitable for displaying the automatic offer according to the conditions, but it will always fit because ANY PRODUCT is indicated there. So, accordingly, a manual offer will never appear.
+Note: you can manage funnel priority within the app. If you set a manual offer to the highest priority, it will be shown first. If an automatic offer has the highest priority, it will always match (since it applies to any product), and the manual offer may never appear. Plan your funnel priorities accordingly.
 
-# ✔️ Activity tracking
+## Activity tracking
 
-Another important thing is analysis. Based on analytics data, we can draw conclusions about the effectiveness of each individual fannel. The ReSell app provides a [detailed analytics](/tracking-your-funnels-activity) of each created funnel. It’s very easy to find: on the app dashboard and click on Analytics.
+Analytics are essential for evaluating your strategy. ReSell provides [detailed analytics](/resell/tracking-your-funnels-activity) for each funnel. Access them from the app dashboard by clicking **Analytics**.
 
-For example, you've created a funnel with upselling laces for sneakers. After a while you notice that no one buys laces. It means something is wrong in this funnel. Ask yourself the following questions:
+For example, if you created a funnel upselling laces for sneakers and no one is buying, ask yourself:
 
-*   May be you should change laces?
-*   Is the price of laces too high?
-*   Does the color of the laces fit the sneakers?
+*   Should you offer a different type of laces?
+*   Is the price too high?
+*   Do the colors match the sneakers?
 
-We can only guess what the buyer did not like in the post-purchase offer. However, by analyzing the data provided by the app, you can identify weak fannels, change your sales strategy and create funnels with new upsell & cross-sell offers.
+By analyzing the data the app provides, you can identify underperforming funnels, adjust your sales strategy, and create new upsell and cross-sell offers.
 
-# ✔️ A few tips for upsell & cross-sell
+## A few tips for upsell & cross-sell
 
-*   Offer discounts comfortable for you - in this case, it is important to keep a balance - to profit from the sale and at the same time please the customer.
-*   Consider specific products in order - if the buyer buys pants, it is unlikely that he will need the similar one. In this case, you can offer pants of a different color or style, or use complementary products such as t-shirts, sweaters, etc.
-*   Prevent overwhelm - respect the time of your customers. No need to spam a lot of post-purchase offers. It's annoying and can scare away customers.
+*   Offer discounts that work for your margins — find the balance between profitability and customer appeal.
+*   Think about what makes sense together — if a customer buys pants, another identical pair is unlikely to appeal. Consider a different color or style, or complementary products like t-shirts or sweaters.
+*   Don't overwhelm customers — respect their time. Showing too many post-purchase offers is annoying and can drive customers away.
 
-As you can see, there is no unequivocal advice on how to build upsell offers. It depends on what exactly you are selling, what interests your audience has, and what the purpose of the funnel is. However, the ReSell app allows you to create a huge number of offers combinations and achieve your goals.
+The right upsell strategy depends on what you sell, who your audience is, and what you want to achieve. ReSell gives you the flexibility to create a wide range of offer combinations and reach your goals.
 
-# ✔️ Next step
+## Next step
 
-Check our article to learn more about the Resell features:
+Check our articles to learn more about ReSell features:
 
-*   [How does the auto recommendation work?](/how-does-the-auto-recommendation-work)
-*   [Can I customize my offers?](/can-i-customize-my-offers)
-
-Updated on: 17/10/2025
+*   [How does the auto recommendation work?](/resell/how-does-the-auto-recommendation-work)
+*   [Can I customize my offers?](/resell/can-i-customize-my-offers)

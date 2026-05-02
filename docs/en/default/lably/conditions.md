@@ -8,49 +8,38 @@ order: 0
 status: published
 ---
 
-Articles on: [Lably](/en/category/lably-fcmteo/)
-
 # Conditions
 
-# Conditions
+## About the condition option
 
-****In this article:****
+With Lably's Display Conditions, you have full control over when and where your labels or badges appear, based on product or customer-specific conditions.
 
-*   [About the condition option](#1-about-the-condition-option)
-*   [Condition examples](#1-condition-examples)
+This feature lets you apply labels and badges automatically — just set the required condition and they will appear on the matching products without any manual work.
 
-# ✔️ About the condition option
+## Condition examples
 
-With Lably's Display Conditions, you have full control over when and where your labels or badges appear - based on product or customer-specific conditions.
+**New arrival label**
 
-This feature helps you set labels and badges without applying labels manually. Just set the necessary condition and labels will automatically appear at the specific products.
+For example, you've created a "New arrival" label and want to display it only on new products based on their creation date:
 
-# ✔️ Condition examples
+1.  Click **Add condition**.
+2.  Select **Product created**.
+3.  Select the required creation date period.
 
-****New arrival label****
+**Eco-friendly label**
 
-For example, you’ve created a "New arrival" label and want to display it on only new products based on the creation date:
+Suppose you sell cosmetics and one of your vendors specializes in eco-friendly products. To highlight these products, you can create an "Eco-friendly" label for them:
 
-1.  Click Add condition.
-2.  Select Product created.
-3.  Select the required period of product creation.
+1.  Click **Add condition**.
+2.  Select **Product vendor**.
+3.  Select **is equal** and enter the vendor's name.
 
-****Add Eco-friendly label****
+**Display for visitors from specific countries**
 
-Let’s consider another example. You sell cosmetics and one of your vendors is specialized in eco-friendly products. To highlight these products, you can create an "Eco-friendly" label for them:
+You can also display labels to visitors from specific countries:
 
-1.  Click Add condition.
-2.  Select Product vendor.
-3.  Select "is equal" and type the vendor’s name.
+1.  Click **Add condition**.
+2.  Select **Visitor country**.
+3.  Include or exclude the countries where you want to display the label or badge.
 
-****Display for visitors from specific countries****
-
-You can also display labels to visitors from specific countries.
-
-1.  Click on Add condition.
-2.  Select Visitor country.
-3.  Include or exclude countries where you want to display the label or badge.
-
-To learn more about the app, read our article - [Frequently asked questions](/frequently-asked-questions).
-
-Updated on: 15/09/2025
+To learn more about the app, read our article: [Frequently asked questions](/frequently-asked-questions).

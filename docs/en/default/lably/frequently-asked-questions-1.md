@@ -8,15 +8,11 @@ order: 4
 status: published
 ---
 
-Articles on: [Lably](/en/category/lably-fcmteo/)
-
-# Frequently Asked Questions
-
 # FAQ
 
-Before you start using the Lably application, we recommend you get acquainted with frequently asked questions.
+Before you start using the Lably application, review these frequently asked questions.
 
-*   [Can I add both label and badge to the product?](#1-can-i-add-both-label-and-badge-to-the-product)
+*   [Can I add both a label and a badge to the product?](#1-can-i-add-both-label-and-badge-to-the-product)
 *   [Can I add several labels or badges?](#1-can-i-add-several-labels-or-badges)
 *   [How to customize my badge (change color, shape, position)?](#1-how-to-customize-my-badge-change-color-shape-position)
 *   [How to translate the text on my label?](#1-how-to-translate-the-text-of-my-label)
@@ -26,60 +22,58 @@ Before you start using the Lably application, we recommend you get acquainted wi
 *   [How to display labels within a specific time period?](#1-how-to-display-labels-within-a-specific-time-period)
 *   [How to redirect customers after clicking on the label or badge?](#1-how-to-redirect-customers-after-clicking-on-the-label-or-badge)
 
-# ✔️ Can I add both label and badge to the product?
+## Can I add both a label and a badge to the product?
 
-Yes, you can add both label and badge to the product.
+Yes, you can add both a label and a badge to the same product.
 
 Labels are displayed on the product image, and badges are displayed in the product content.
 
-# ✔️ Can I add several labels or badges?
+## Can I add several labels or badges?
 
 Yes. You can add as many labels and badges as you need.
 
-# ✔️ How to customize my badge (change color, shape, position)?
+## How to customize my badge (change color, shape, position)?
 
-When you create a badge, you will be moved to the ****Customization**** page. In the ****Style**** section, you can customize your badge according to your needs: change size, position, color, font, etc.
+When you create a badge, you are taken to the **Customization** page. In the **Style** section, you can customize your badge as needed: change its size, position, color, font, and more.
 
-# ✔️ How to translate the text on my label
+## How to translate the text on my label
 
-Click on ****Label**** in the left-side menu -> near the text field click on ****Locales****. Here you can select the language and enter the translation.
+Click **Label** in the left-side menu → next to the text field, click **Locales**. Select the language and enter the translation.
 
 ![](https://cdn.heymantle.com/docs/screenshots/f6ecc372-990d-47ba-ae5b-add8835150a9/locales-label_8oqjpv.png)
 
-# ✔️ Can I display labels to customers based on their location?
+## Can I display labels to customers based on their location?
 
-Yes, Lably provides such option. Go to ****Display Conditions**** and click ****Add condition**** -> select ****Visitor country**** and include or exclude countries where you want to display your label.
+Yes, Lably supports this option. Go to **Display Conditions**, click **Add condition** → select **Visitor country**, then include or exclude the countries where you want your label to appear.
 
-# ✔️ Can I display labels and badges for specific products?
+## Can I display labels and badges for specific products?
 
-Sure! You can create labels for different types of products with the help of [****Display Condition****](/conditions) option.
+Yes. You can create labels for different product types using the [**Display Condition**](/lably/conditions) option.
 
-For example, you want to highlight Top products with the appropriate tag. Create the label and go to Display Condition -> click ****Add condition**** and select ****Product tag****. Now you should enter the “Top” tag in the field and click ****Save****. Thus, your label will be displayed only for products with the “Top” tag.
+For example, to highlight top products with a specific tag, create the label and go to **Display Condition** → click **Add condition** and select **Product tag**. Enter the "Top" tag in the field and click **Save**. Your label will then appear only on products with the "Top" tag.
 
 ![](https://cdn.heymantle.com/docs/screenshots/aea12dd1-3d99-4bee-b797-0b2768c7618d/product-tag_25kxzb.png)
 
-Lably provides different conditions, so you can create labels and badges for different products.
+Lably offers a variety of conditions, so you can create labels and badges tailored to different products.
 
-# ✔️ How to schedule labels and badges display?
+## How to schedule labels and badges display?
 
-Click on ****Week schedule**** in the left-side menu and select day and time when you want to schedule your label.
+Click **Week schedule** in the left-side menu and select the day and time when you want your label to appear.
 
-By default, all options are enabled. This means that the label will be displayed all the time until you delete it. You can set the appropriate time for each day separately.
+By default, all options are enabled, meaning the label will be displayed continuously until you delete it. You can set a custom time for each day separately.
 
-# ✔️ How to display labels within a specific time period?
+## How to display labels within a specific time period?
 
-Click on ****Display period**** in the left-side menu -> disable “All time” option and select the time period when you want to display your label.
+Click **Display period** in the left-side menu → disable the "All time" option and select the time period during which you want the label to appear.
 
-# ✔️ How to redirect customers after clicking on the label or badge?
+## How to redirect customers after clicking on the label or badge?
 
-Click on ****Link**** in the left-side menu and enter the link on the product or page where you want to move your customers when they click on badge.
+Click **Link** in the left-side menu and enter the URL of the product or page you want customers to visit when they click the badge.
 
-We hope this FAQ will answer your questions. However, if you need more information about the app, feel free to contact our support team: [support@devit.software](mailto:support@devit.software) .
+If you need more help with the app, feel free to contact our support team: [support@devit.software](mailto:support@devit.software).
 
-## Suggested articles
+### Suggested articles
 
-*   [How to use a custom font in a label?](/how-to-use-a-custom-font-in-a-label)
-*   [My labels are not showing - what should I do?](/my-labels-are-not-showing-what-should-i-do)
-*   [Can I apply custom selectors?](/can-i-apply-custom-selectors)
-
-Updated on: 03/10/2025
+*   [How to use a custom font in a label?](/lably/how-to-use-a-custom-font-in-a-label)
+*   [My labels are not showing - what should I do?](/lably/my-labels-are-not-showing-what-should-i-do)
+*   [Can I apply custom selectors?](/lably/can-i-apply-custom-selectors)

@@ -8,34 +8,25 @@ order: 19
 status: published
 ---
 
-Articles on: [React Flow](/en/category/react-flow-2kjdy9/)
 
 # React Flow Templates
 
-# React Flow Templates
+# What are the React Flow Templates?
 
-****In this article:****
+React Flow allows you to quickly create the workflows from the templates. You can find them on the **Templates** tab from the main dashboard.
 
-*   [What are the React Flow Templates?](#1-what-are-the-react-flow-templates)
-*   [How to use templates?](#1-how-to-use-templates)
-*   [The most popular templates](#1-the-most-popular-templates)
+**Templates** - are ready-to-use workflows, aimed at different Shopify tasks, that you can launch at once. You can find the necessary workflow in the templates list and edit it to fit your needs.
 
-# ✔️ What are the React Flow Templates?
+# How to use templates?
 
-React Flow allows you to quickly create the workflows from the templates. You can find them on the ****Templates**** tab from the main dashboard.
-
-****Templates**** - are ready-to-use workflows, aimed at different Shopify tasks, that you can launch at once. You can find the necessary workflow in the templates list and edit it to fit your needs.
-
-# ✔️ How to use templates?
-
-1.  Go to the ****Templates**** tab
+1.  Go to the **Templates** tab
 2.  Select the necessary workflow from the list
 3.  You can click the "eye" icon next to the template to see what it looks like
 4.  Then, click on the template to enable it
 
 ![List of the available templates](https://cdn.heymantle.com/docs/screenshots/10eb6b25-0181-4fe1-b672-469fec856231/react-flow-workflow-templates_9o2pvo.png)
 
-# ✔️ The most popular templates
+# The most popular templates
 
 ## High-risk order alert
 
@@ -54,8 +45,8 @@ When an order is paid, it will be automatically verified after 10 minutes, and t
 
 When there are orders which payment currency is foreign for your region, use the next workflow:
 
-*   It starts with the ****Order created**** trigger
-*   Next, it verifies the payment currency of the customer for this order → if it ****is not equal**** to USD
+*   It starts with the **Order created** trigger
+*   Next, it verifies the payment currency of the customer for this order → if it **is not equal** to USD
 *   It automatically adds tags to the orders
 
 ![Tags for foreign currencies](https://cdn.heymantle.com/docs/screenshots/2d9a3eb7-ca65-4103-950b-db117e4ce19a/tags-for-foreign-currencies_1aog3d6.png)
@@ -70,7 +61,7 @@ There is a situation when, after the order has been paid, it still remains unful
 
 This workflow will send a restocking notification to your store email when there is small product quantity left.
 
-*   Start when the ****Inventory quantity**** has ****changed****
+*   Start when the **Inventory quantity** has **changed**
 *   Then, verify if product variant is less than or equal to "0"
 *   When the condition is met, send an email to the store's owner with a notification.
 
@@ -78,9 +69,8 @@ This workflow will send a restocking notification to your store email when there
 
 ## Suggested articles
 
-*   [Most popular flows](/most-popular-flows)
-*   [Order workflows](/order-workflows)
-*   [Customer workflows](/customer-workflows)
-*   [Product workflows](/product-workflows)
+*   [Most popular flows](/react-flow/most-popular-flows)
+*   [Order workflows](/react-flow/order-workflows)
+*   [Customer workflows](/react-flow/customer-workflows)
+*   [Product workflows](/react-flow/product-workflows)
 
-Updated on: 25/03/2026

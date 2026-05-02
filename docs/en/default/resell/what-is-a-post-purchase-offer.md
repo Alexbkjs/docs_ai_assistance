@@ -2,46 +2,41 @@
 type: page
 title: What is a post-purchase offer?
 seoTitle: What is a post-purchase offer?
-seoDescription: ✔️ What is post-purchase offer
+seoDescription: What is post-purchase offer
 slug: what-is-a-post-purchase-offer
 order: 10
 status: published
 ---
 
-Articles on: [ReSell](/en/category/resell-c6d2uz/)
-
-# What is a post-purchase offer?
 
 # Post-purchase Offer
 
-# ✔️ What is post-purchase offer
+## What is a post-purchase offer?
 
-****Post-purchase offers**** are additional sales pages or blocks displayed to customers right ****after**** they complete their ****purchase****, ****but before**** they reach the ****Thank You page****.
+**Post-purchase offers** are additional sales pages or blocks displayed to customers right **after** they complete their **purchase**, **but before** they reach the **Thank You page**.
 
-Example: If you sell phones, you can offer related accessories as post-purchase upsell or downsell offers. When a customer accepts an offer, the additional order is charged automatically.
+Example: if you sell phones, you can offer related accessories as post-purchase upsell or downsell offers. When a customer accepts an offer, the additional item is charged automatically.
 
-The customer can buy a promoted product in one click. These offers are risk-free and can increase the average order value.
+Customers can buy a promoted product in one click. These offers are risk-free and can increase the average order value.
 
 ![](https://cdn.heymantle.com/docs/screenshots/bbc9be70-f677-4e88-be3f-30a0a0bd6d7d/example-of-the-post-purchase-o_103g02v.png)
 
-# ✔️ Limitations
+## Limitations
 
-Shopify provides limitations for post-purchase offers.
+Shopify imposes limitations on post-purchase offers.
 
-For example, Shopify doesn’t support third-party payment providers that require storing CVV data. This includes Braintree, Payflow Pro, PayPal Payments Pro, and Eway.
+For example, Shopify does not support third-party payment providers that require storing CVV data. This includes Braintree, Payflow Pro, PayPal Payments Pro, and Eway.
 
-There are also some limitations for additional payment methods. Thus, the post-purchase page won’t appear if:
+There are also limitations for additional payment methods. The post-purchase page will not appear if:
 
 1.  The customer checks out using an installment or wallet service (such as Klarna, Affirm, AfterPay, Apple Pay, Amazon Pay, or Google Pay).
 2.  The order is paid with a gift card or any non-credit card method.
 
-You can view the full list of restrictions in the Shopify article - [Limitations](https://shopify.dev/docs/apps/build/checkout/product-offers#limitations).
+You can view the full list of restrictions in the Shopify article: [Limitations](https://shopify.dev/docs/apps/build/checkout/product-offers#limitations).
 
-# ✔️ Next step
+## Next step
 
 Check our articles to learn more about the app's functionality:
 
-*   [How many offers can I show to my customer?](/how-many-offers-can-i-show-to-my-customer)
-*   [How many funnels can I create with ReSell?](/how-many-funnels-can-i-create-with-resell)
-
-Updated on: 22/10/2025
+*   [How many offers can I show to my customer?](/resell/how-many-offers-can-i-show-to-my-customer)
+*   [How many funnels can I create with ReSell?](/resell/how-many-funnels-can-i-create-with-resell)

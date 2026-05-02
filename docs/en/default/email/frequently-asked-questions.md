@@ -8,74 +8,56 @@ order: 8
 status: published
 ---
 
-Articles on: [Email](/en/category/email-5zq1du/)
-
-# Frequently asked questions
 
 # FAQ
 
-In this article:
+## Does the Email bot send any emails?
 
-*   [Does the email bot send any emails?](#1-does-the-email-bot-send-any-emails)
-*   [Does the email bot store attachments?](#1-does-the-email-bot-store-attachments)
-*   [Does the email bot store the body of the email outside of the discord channel?](#1-does-the-email-bot-store-the-body-of-the-email-outside-of-the-discord-channel)
-*   [Is it possible to set up forwarding from an existing email in Discord?](#1-i-it-possible-to-set-up-forwarding-from-an-existing-email-in-discord)
-*   [What should I do if my email didn’t appear in the Discord channel?](#1-what-should-i-do-if-my-email-didn%E2%80%99t-appear-in-the-discord-channel?)
-*   [If I have questions about the bot, how can I get it?](#1-if-i-have-questions-about-the-bot-how-can-i-get-it)
-*   [Can I add bot to all my channels?](#1-can-i-add-bot-to-all-my-channels)
-*   [Can I remove the bot from channel if I don't need it anymore?](#1-can-i-remove-the-bot-from-channel-if-i-dont-need-it-anymore)
-*   [Do you have any limitations?](#1-do-you-have-any-limitations)
-*   [Where can I leave feedback about the bot?](#1-where-can-i-leave-feedback-about-the-bot)
+No. The bot can only **receive and forward** emails to the channel.
 
-# ✔️ Does the Email bot send any emails?
+## Does the Email bot store attachments?
 
-No, it does not. The bot only can ****receive and forward**** emails to the channel.
+No, it **does not store attachments**. All attachments are sent to the Discord channel and are not stored on our servers.
 
-# ✔️ Does the Email bot store attachments?
+## Does the Email bot store the email body outside of the Discord channel?
 
-No, it ****doesn’t store attachments****. All attachments are sent to the Discord channel, and they are not stored on our servers.
+Yes. Because Discord channels cannot display HTML email markup, the email body is stored on the bot's server so you can view it in its original format. The email body is stored for 3 months.
 
-# ✔️ Does the Email bot store the body of the email outside of the discord channel?
+## Is it possible to set up forwarding from an existing email in Discord?
 
-Yes. Since the Discord channel cannot display the HTML markup of the email, the body of the email is stored on the Bot's server to be able to view the email in its original form. The body of the letter is stored on the server for 3 months.
+Yes, you can set up forwarding from an existing email account. See this article: [Automatically forward Gmail messages to another account](https://support.google.com/mail/answer/10957?hl=en).
 
-# ✔️ Is it possible to set up forwarding from an existing email in Discord?
+## What should I do if my email didn't appear in the Discord channel?
 
-Yes, you can set up forwarding from an existing email in Discord. Check this article - [Automatically forward Gmail messages to another account](https://support.google.com/mail/answer/10957?hl=en).
+Start by checking our article: [Troubleshooting: Why Aren't Emails Showing Up in the Channel?](/email/troubleshooting-why-aren-t-emails-showing-up-in-the-channel)
 
-# ✔️ What should I do if my email didn’t appear in the Discord channel?
+If you still have questions, contact our support team: [support@devit.software](mailto:support@devit.software).
 
-First of all, check our article: [Troubleshooting: Why Aren’t Emails Showing Up in the Channel?](/troubleshooting-why-aren-t-emails-showing-up-in-the-channel)
+## How can I get support for the bot?
 
-If you still have questions, please contact our support team: [support@devit.software](mailto:support@devit.software).
+There are **2 ways** to get help:
 
-# ✔️ If I have questions about the bot, how can I get it?
+*   Run the `/help` command in the channel with the bot. You'll receive a short guide and support contact details.
+*   Contact our support team directly: [support@devit.software](mailto:support@devit.software).
+*   Write to us in our Discord channel: [https://discord.gg/sg72ENbAz4](https://discord.gg/sg72ENbAz4)
 
-You can get it in ****2 ways****:
+## Can I add the bot to all my channels?
 
-*   Enter and send the `/help` command in the channel with Bot. You will get a short guide and contacts of our support.
-*   Directly contact our support team: [support@devit.software](mailto:support@devit.software).
-*   Write us in Discord channel: [https://discord.gg/sg72ENbAz4](https://discord.gg/sg72ENbAz4)
+Yes, you can **add the bot to all your channels**. The Email bot generates a unique email address for every integration, so you can create as many integrations as you need.
 
-# ✔️ Can I add bot to all my channels?
+## Can I remove the bot from a channel if I no longer need it?
 
-Yes, you can ****add bot to all your channels****. The Email bot generates unique email addresses for every integration. Therefore, you can create as many integrations as you need.
+Yes. Click the Disconnect button to remove it. Use the `/list` command to access this option.
 
-# ✔️ Can I remove the bot from channel if I don't need it anymore?
+## Are there any limitations?
 
-Yes, you can remove it by clicking the Disconnect button. Use the `/list` command to call the block with the appropriate option.
+Yes, some limitations apply. For more information, refer to [this article](https://help.devit.software/en/article/limitations-fnem8i/).
 
-# ✔️ Do you have any limitations?
+## Where can I leave feedback about the bot?
 
-While using Email bot, you may face several limitations. For more information, please refer to [this article](https://help.devit.software/en/article/limitations-fnem8i/).
+You can leave feedback on the [Email Bot](https://top.gg/bot/1106165894859735070) page.
 
-# ✔️ Where can I leave feedback about the bot?
+### Suggested articles:
 
-You can leave your feedback on the [Email Bot](https://top.gg/bot/1106165894859735070) page.
-
-## Suggested articles:
-
-*   [Welcome to Discord Email Bot](/welcome-to-discord-email)
-*   [Quick start guide - How to setup Discord Email bot](/getting-started-in-discord-email)
-
-Updated on: 11/12/2025
+*   [Welcome to Discord Email Bot](/email/welcome-to-discord-email)
+*   [Quick start guide - How to setup Discord Email bot](/email/getting-started-in-discord-email)

@@ -8,12 +8,7 @@ order: 40
 status: published
 ---
 
-Articles on: [React Flow](/en/category/react-flow-2kjdy9/)
 
-# Is your app partner-friendly?
+# Developer Mode
 
-# Developers Mode
-
-Yes, of course our app is partner-friendly. You can use it for free while developing your store in developer mode.
-
-Updated on: 06/12/2024
+Yes, the app is partner-friendly. You can use it for free while developing your store in developer mode.

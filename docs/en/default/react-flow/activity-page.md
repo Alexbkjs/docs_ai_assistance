@@ -8,29 +8,20 @@ order: 43
 status: published
 ---
 
-Articles on: [React Flow](/en/category/react-flow-2kjdy9/)
 
-# Activity page
+# Activity Page – Your All-in-One Statistics Hub
 
-# Activity page - Your all-in-one statistic
+## What is the Activity page?
 
-In this article:
+The Activity page is your central hub for tracking all workflow activity in one convenient place. It lets you monitor every workflow that has been launched, along with the final outcome — whether successful or failed. You'll also find clear, easy-to-understand statistics to help you assess workflow performance at a glance.
 
-*   [What is Activity page?](#1-what-is-activity-page)
-*   [How does it work?](#1-how-does-it-work)
-*   Time interval
+Let's explore how it works.
 
-# What is Activity page?
+## How does it work?
 
-The Activity page is your central hub for tracking all workflow activity in one convenient place. It allows you to monitor every workflow that’s been launched, along with the final outcome - whether successful or failed. You'll also find clear, easy-to-understand statistics that help you assess workflow performance at a glance.
+To access workflow stats, go to the **Activity** tab in the app. At the top, you'll see a graph displaying the number of workflow runs. The graph also shows the change in run count compared to the previous period of the same duration selected in the calendar. You can customize the view by selecting a time range and choosing the type of graph you prefer.
 
-Let’s explore how it works!
-
-# How does it work?
-
-To access workflow stats, go to the Activity tab in the app. At the top, you’ll see a graph displaying the number of workflow runs. The graph also displays the change in the number of workflow runs compared to the previous period of the same duration selected in the calendar. You can customize the view by selecting a time range and choosing the type of graph you prefer.
-
-Below the graph, you’ll find a detailed list of all workflows launched during the selected time period. You can filter them by:
+Below the graph, you'll find a detailed list of all workflows launched during the selected time period. You can filter them by:
 
 *   All
 *   Completed
@@ -41,9 +32,9 @@ Simply click the relevant tab to focus on the workflows you want to review.
 
 ![](https://cdn.heymantle.com/docs/screenshots/b8333ee8-049c-4081-a33b-073ed5916c9d/activity-page-react-flow_s4g4t7.png)
 
-# Time interval
+## Time interval
 
-To view statistics for a specific time period, click the date button in the top-right corner. Choose your desired range from the calendar.
+To view statistics for a specific time period, click the date button in the top-right corner and choose your desired range from the calendar.
 
 Note: The maximum time range for generating graphs is 90 days. Dates beyond this range will be disabled in the calendar.
 
@@ -51,7 +42,5 @@ Note: The maximum time range for generating graphs is 90 days. Dates beyond this
 
 ## Suggested articles:
 
-*   [Single Activity page](/single-activity-page)
-*   [React Flow Templates](/react-flow-templates)
-
-Updated on: 25/03/2026
+*   [Single Activity page](/react-flow/single-activity-page)
+*   [React Flow Templates](/react-flow/react-flow-templates)

@@ -1,92 +1,80 @@
 ---
 type: page
-title: "Troubleshooting: Why Aren’t Emails Showing Up in the Channel?"
-seoTitle: "Troubleshooting: Why Aren’t Emails Showing Up in the Channel?"
-seoDescription: "In this article:"
+title: "Troubleshooting: Why Aren't Emails Showing Up in the Channel?"
+seoTitle: "Troubleshooting: Why Aren't Emails Showing Up in the Channel?"
+seoDescription: ""
 slug: troubleshooting-why-aren-t-emails-showing-up-in-the-channel
 order: 4
 status: published
 ---
 
-Articles on: [Email](/en/category/email-5zq1du/)
-
-# Troubleshooting: Why Aren’t Emails Showing Up in the Channel?
 
 # Troubleshooting
 
-****In this article:****
+If you've connected the Email bot but **don't see any emails appearing in your Discord channel**, this guide will help you identify the issue. Follow the steps below to check the most common causes.
 
-*   [Step 1: Use the /connect command](#1-step-1-use-the-connect-command)
-*   [Step 2: Try Reconnecting the Bot](#1-step-2-try-reconnecting-the-bot)
-*   [Step 3: Check your plan limits](#1-step-3-check-your-plan-limits)
-*   [Need help?](#1-need-help)
-
-If you've connected the Email Bot but ****don’t see any emails appearing in your Discord channel****, don’t worry - this guide will help you figure out what’s going on. Follow the steps below to check the most common issues.
-
-# ✔️ Step 1: Use the `/connect` command
+## Step 1: Use the `/connect` command
 
 To receive emails in your Discord channel, the bot must be connected using the `/connect` command.
 
-If you’ve already run this command, double-check the following:
+If you've already run this command, verify the following:
 
 1.  Go to the channel where you want to receive emails.
 2.  Run the `/connect` command again.
 
-If the connection is active, the bot will confirm it by sending you a message. In that message, you’ll see the unique email address used for this integration. ****Ensure the email**** you’re sending messages to ****matches the address shown by the bot****. If they don’t match, emails won’t be delivered to the channel.
+If the connection is active, the bot will confirm it with a message showing the unique email address for this integration. **Make sure the email address** you're sending messages to **matches the address shown by the bot**. If they don't match, emails will not be delivered to the channel.
 
 ![](https://cdn.heymantle.com/docs/screenshots/d3fbd04f-4982-4c27-9d7d-94d004257e28/connection-successful_h64sz4.png)
 
-3.  Open your email provider and ****send a test message**** to the provided email.
+3.  Open your email provider and **send a test message** to the provided address.
 
 ![](https://cdn.heymantle.com/docs/screenshots/5c931cef-1255-43c2-9e4c-80795d81bece/test-message-email_pdf23w.png)
 
-If the connection is clear, the message will appear in the connected channel.
+If the connection is working, the message will appear in the connected channel.
 
 ![](https://cdn.heymantle.com/docs/screenshots/50478835-e087-45e3-aac5-44a5c9372331/test-message-discord_8yjg5b.png)
 
-If the connection is unsuccessful, you will get a message with instructions on what to do next. Probably, you don’t have required permissions. Check our article – [Discord server permissions and scopes](/discord-server-permissions-and-scopes) – to figure out how to enable them.
+If the connection fails, you will receive a message with instructions on what to do next. This usually means you are missing required permissions. See [Discord server permissions and scopes](/email/discord-server-permissions-and-scopes) to learn how to enable them.
 
 ![](https://cdn.heymantle.com/docs/screenshots/b7e37b2d-a028-4609-98ab-1b8876cefd34/connection-failed_1rjaxfn.png)
 
-Note: When you run `/connect`, the bot automatically checks if it has all the necessary permissions. If something is missing (like the right to manage webhooks), you’ll see a message explaining what's wrong and how to fix it.
+Note: When you run `/connect`, the bot automatically checks for all necessary permissions. If something is missing (such as the ability to manage webhooks), you'll see a message explaining what's wrong and how to fix it.
 
-# ✔️ Step 2: Try Reconnecting the Bot
+## Step 2: Try reconnecting the bot
 
-If everything seems set up but emails still aren’t arriving, follow these steps:
+If everything appears to be set up but emails still aren't arriving, follow these steps:
 
-1.  Disconnect the bot from the channel by using the `/disconnect` command.
+1.  Disconnect the bot from the channel using the `/disconnect` command.
 
-Important: Using `/disconnect` will generate a new email address for this channel, which may affect your current setup.
+**Important:** Using `/disconnect` will generate a new email address for this channel, which may affect your current setup.
 
-2.  Reconnect the command by using the `/connect` command.
-3.  Send a test email to the new address and check if it appears in the channel.
+2.  Reconnect the bot using the `/connect` command.
+3.  Send a test email to the new address and check whether it appears in the channel.
 
-# ✔️ Step 3: Check your plan limits
+## Step 3: Check your plan limits
 
-If your subscription is active but you're still not receiving emails, it's possible you've ****exceeded the message or integration limits**** of your current plan.
+If your subscription is active but you're still not receiving emails, you may have **exceeded the message or integration limits** of your current plan.
 
-Use the ****Stats**** option in the app to view your current usage:
+Use the **Stats** option in the app to view your current usage:
 
 1.  Run the `/list` command.
-2.  Click the ****View email statistics**** button in the appeared message.
+2.  Click the **View email statistics** button in the message that appears.
 
 ![](https://cdn.heymantle.com/docs/screenshots/5057d759-b891-4d46-aa68-d78210d966d4/view-statistics_re8tl1.png)
 
-If you’re over the limit, consider upgrading to a higher plan to keep everything running smoothly.
+If you're over the limit, consider upgrading to a higher plan to keep everything running smoothly.
 
-# ✔️ Need Help?
+## Need help?
 
-If you've tried everything above and messages still don't arrive, please contact our support and provide the following information:
+If you've tried all the steps above and messages still aren't arriving, contact our support team and provide the following information:
 
 1.  Email address generated by the Email bot.
-2.  Date and exact time the letter was sent.
+2.  Date and exact time the email was sent.
 3.  Time zone in which the message was sent.
-4.  Screenshot or other confirmation of the fact that the letter was sent.
-5.  Indicate the mail service that was used (GMail by Google, iCloud Mail by Apple, Outlook from Microsoft, Zoho Mail).
+4.  A screenshot or other confirmation that the email was sent.
+5.  The email service you used (e.g., Gmail by Google, iCloud Mail by Apple, Outlook by Microsoft, Zoho Mail).
 
-****Our contacts:****
+**Contact us:**
 
-*   Email: [<u><span style="white-space:pre-wrap" class="csh-markdown csh-markdown-underline">support@devit.software</span></u>](http://support@devit.software) 
+*   Email: [<u><span style="white-space:pre-wrap" class="csh-markdown csh-markdown-underline">support@devit.software</span></u>](http://support@devit.software) 
 *   Discord channel: [<u><span style="white-space:pre-wrap" class="csh-markdown csh-markdown-underline">Join Support</span></u>](https://discord.com/invite/sg72ENbAz4)
-
-Updated on: 03/10/2025

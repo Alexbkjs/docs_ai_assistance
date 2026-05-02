@@ -8,151 +8,133 @@ order: 9
 status: published
 ---
 
-Articles on: [React Flow](/en/category/react-flow-2kjdy9/)
 
-# Most Popular Flows
+# Popular Flows
 
-# Popular Flow
+In this article, you'll find the most popular workflows. You can use any of these examples to automate your Shopify store with React Flow. The app's functionality is extensive, and you can adapt flows to almost any situation — related to a product, order, customer, and more. If you can't find the right workflow for what you want to implement, write to our support team and we'll try to help. Some of these flows are also available as templates.
 
-****In this article:****
+## Hide out of stock products or bring back in-stock products
 
-*   [Hide out of stock products or Back in stock available products](#1-hide-out-of-stock-products-or-back-in-stock-available-products)
-*   [Product quantity alert](#1-product-quantity-alert)
-*   [Cancel high risk order](#1-cancel-high-risk-order)
-*   [Tag the order by purchased products](#1-tag-the-order-by-purchased-products)
-*   [Sending a reminder of unpaid orders to users](#1-sending-a-reminder-of-unpaid-orders-to-users)
-*   [New products notification](#1-new-products-notification)
-*   [Thank you message](#1-thank-you-message)
-*   [Low stock items report](#1-low-stock-items-report)
-*   [Supplier notification](#1-supplier-notification)
-*   [Marketing tags](#1-marketing-tags)
+This flow helps store owners automatically hide or re-publish products based on availability, so you don't need to track every item manually.
 
-In this article you will find the most popular workflows. You can use one of the scripts to automate your Shopify store with React Flow App. The functionality of the application is huge and you can adjust the flow for almost any situation. A workflow can be related to a product, order, customer, etc. If you can not find the right workflow for the situation you want to implement and use in your store - you can write to our support and we will try to help you. You can find some of these flows in templates, use them to customize the processes in your store.
+Choose **Inventory quantity changed** as the trigger.
 
-# ✔️ Hide out of stock products or Back in stock available products
+Set the condition: **Product / Total inventory** less than or equal to 0.
 
-This flow can help store owners automatically hide or repost products based on availability. You don't need to track every item and do it manually.
-
-For this flow choose ****Inventory quantity changed**** as a trigger.
-
-Condition is ****Product / Total inventory**** less than or equal to 0.
-
-Now add action ****Hide product**** - make the product that triggered this workflow unavailable on the online store.
+Add the action **Hide product** to make the product unavailable in the online store.
 
 ![](https://cdn.heymantle.com/docs/screenshots/006f5e60-ba10-45bd-8eec-50b3fc36b006/hide-product_dugp9t.png)
 
-You can set up the same flow to activate the product in the store. Change the conditions to ****greater than or equal to**** and add action ****Activate product**** .
+You can set up the same flow to reactivate products. Change the condition to **greater than or equal to** and add the action **Activate product**.
 
-# ✔️ Product quantity alert
+## Product quantity alert
 
-If you'd like to receive low-stock alerts and reminders to refill, you can also set this up automatically.
+To receive low-stock alerts and restocking reminders automatically:
 
-To do this, select a trigger ****Inventory quantity change****.
+Select the **Inventory quantity change** trigger.
 
-And select condition when ****Product variant / Inventory quantity**** -> set the condition “less than or equal to” and enter zero.
+Set the condition: **Product variant / Inventory quantity** → set "less than or equal to" zero.
 
-Then choose ****Send email**** action.
+Then choose the **Send email** action.
 
 ![](https://cdn.heymantle.com/docs/screenshots/e6e9c5de-44fc-44e6-852c-5abf309a9942/inventory-quantity-changed_mgab3b.png)
 
-# ✔️Cancel high risk order
+## Cancel high-risk orders
 
-You can also protect the store on Shopify from fraudsters with the help of the React Flow application functionality. For instance, you can automatically cancel orders from dangerous emails.
+You can protect your Shopify store from fraud by automatically cancelling orders from suspicious sources.
 
-Choose ****Order created**** as a trigger.
+Choose **Order created** as the trigger.
 
-Condition is ****Order / Risk level**** is equal “High”.
+Set the condition: **Order / Risk level** is equal to "High".
 
-And add action ****Cancel order**** or choose any other action from the list.
+Add the action **Cancel order** or choose another action from the list.
 
-In the reason field select ****Fraudulent order**** . You can also send notification explaining why the order was canceled.
+In the reason field, select **Fraudulent order**. You can also send a notification explaining why the order was cancelled.
 
 ![](https://cdn.heymantle.com/docs/screenshots/f3912920-4f29-4798-a63f-b64e6717231d/cancel-order_i042sx.png)
 
-# ✔️Tag the order by purchased products
+## Tag the order by purchased products
 
-With this workflow, you can add tags to fulfield orders to see which items are purchased more often than others. You can set up an automatic flow that will tag, for example, all products in a collection or products that contain certain words.
+With this workflow, you can tag fulfilled orders to identify which items are purchased most often. You can set up a flow to tag all products in a collection or products that contain certain words.
 
-Select ****Order created**** trigger.
+Select the **Order created** trigger.
 
-Select ****Order / Line items**** as a condition and set the words that the tag should include.
+Select **Order / Line items** as the condition and set the words the tag should include.
 
-Add “Action” and set the tag.
+Add an "Action" and set the tag.
 
 ![](https://cdn.heymantle.com/docs/screenshots/2289cbe4-0f55-4331-ab05-82aaacfb1beb/add-order-tag_gcjith.png)
 
-# ✔️Sending a reminder of unpaid orders to users
+## Send a reminder for unpaid orders
 
-A convenient flow to remind your customers about an unpaid order. Let's imagine that the buyer created an order, but for some reason did not have time or forgot to pay. You can send him or her a reminder letter.
+A convenient flow to remind customers about an unpaid order. If a buyer created an order but forgot to pay, you can send them a reminder.
 
-Choose ****Order created**** as a trigger.
+Choose **Order created** as the trigger.
 
-Condition is ****Order / Display financial status**** -> select ‘is any of’ and select the appropriate parameters like “Partially paid”, “Pending”, etc.
+Set the condition: **Order / Display financial status** → select "is any of" and choose the appropriate statuses, such as "Partially paid", "Pending", etc.
 
-And add action ****Send email****.
+Add the **Send email** action.
 
 ![](https://cdn.heymantle.com/docs/screenshots/944381fd-c8f5-4d0e-9d90-b35f3c79884c/unpaid-order_li0jcj.png)
 
-Let us remind that here you have two options to send a letter. One of them is Send an email to an email address via ****SMPT connector****. In [this article](/react-flow-connectors) we told you about it in detail.
+You have two options for sending the email. One option is to send via an **SMTP connector**. Learn more about this in [this article](/react-flow/react-flow-connectors).
 
-# ✔️ New products notification
+## New products notification
 
-Another popular flow used by Shopify shop owners is ****New products notification****. If a new product or collection has appeared in the store, you can notify clients about it.
+Another popular flow for Shopify store owners is **New products notification**. When a new product or collection appears in the store, you can notify customers about it.
 
-Select trigger ****Order created****. If you want, you can set the delay or add conditions, and then add action ****Send new product notification****. Don't forget to write subject of the letter and message for your customers.
+Select the **Order created** trigger. Optionally, set a delay or add conditions, then add the action **Send new product notification**. Don't forget to write a subject line and message for your customers.
 
 ![](https://cdn.heymantle.com/docs/screenshots/f5f56ade-1b2b-4408-8e64-5c7d48c5b8a3/new-product-notification_93wr3v.png)
 
-# ✔️ Thank you message
+## Thank you message
 
-It is important for every customer that the store keeps in touch with him. To show that each customer is important to you, you can send thank-you letters after each fulfield and paid order or to welcome new customers, for instance.
+Staying in touch shows customers they matter to you. Send thank-you emails after each fulfilled, paid order or to welcome new customers.
 
-Select ****Order created**** trigger.
+Select the **Order created** trigger.
 
-Select \*\*Order / Customer accepts marketing” condition and select ‘is true’.
+Select the **Order / Customer accepts marketing** condition and set it to "is true".
 
-And ****Send email**** action.
+Add the **Send email** action.
 
 ![](https://cdn.heymantle.com/docs/screenshots/1a40c645-4db7-432a-8d50-2263632b32c7/thank-you-message_ncdecu.png)
 
-# ✔️ Low stock items report
+## Low stock items report
 
-With the help of the application, you can receive a daily Low stock items report to the store owner's email. These daily reports will help to control the amount of goods in the store and avoid the situation when the goods are not available.
+Receive a daily low stock items report to your store's email address. These daily reports help you monitor inventory levels and prevent stockouts.
 
-Trigger is ****Time of day****.
+Trigger: **Time of day**.
 
-Action is ****Send low inventory products report**** and set the exact time the report will be sent.
+Action: **Send low inventory products report** — set the exact time the report will be sent.
 
 ![](https://cdn.heymantle.com/docs/screenshots/d82d32eb-a5e4-4b4c-9802-11dc1a8a9a82/time-of-day_febbo8.png)
 
-# ✔️ Supplier notification
+## Supplier notification
 
-Cooperating with some vendors, you are obliged to send them reports with the number of products sold. After setting up the workflow once, these reports will be sent automatically without your involvement.
+If you work with vendors and need to send them reports on products sold, set this up once and the reports will be sent automatically.
 
-Choose ****Order line item created**** as a trigger.
+Choose **Order line item created** as the trigger.
 
-Than ****Line item / Vendor = Vendor for mailing****.
+Then set **Line item / Vendor = Vendor for mailing**.
 
-And ****Send email**** action.
+Add the **Send email** action.
 
 ![](https://cdn.heymantle.com/docs/screenshots/17fb87ad-4a30-4cf7-a468-d85cb45c7d6e/order-line-item-created_dqmfff.png)
 
-# ✔️Marketing tags
+## Marketing tags
 
-And last but not least Marketing tags workflow. You can use this flow to single out customers, who have given permission to receive emails from the store with news, offers, promotions, etc. With the help of this workflow, you can build a marketing strategy based on email newsletters and increase your profits.
+The Marketing tags workflow lets you identify customers who have given permission to receive store emails with news, offers, and promotions. This helps you build a marketing strategy based on email newsletters and increase your revenue.
 
-Use ****Customer created**** trigger.
+Use the **Customer created** trigger.
 
-****Customer / Accepts marketing true**** condition.
+Set the **Customer / Accepts marketing true** condition.
 
-And give ****Tag**** for these group of clients.
+Then assign a **Tag** to this group of customers.
 
 ![](https://cdn.heymantle.com/docs/screenshots/d67e9533-0c61-40b1-aa28-1d4d6b3c19b7/marketing-tags_1sy7dzn.png)
 
 ## Useful links
 
 *   [Order Workflows](https://help.devit.software/en/article/order-workflows-1hqqsbz/#2-verify-the-high-risk-order-and-get-notified-when-it-is-placed)
-*   [Product Workflows](/product-workflows)
-*   [React Flow Triggers and Actions](/react-flow-triggers-actions)
-
-Updated on: 27/02/2026
+*   [Product Workflows](/react-flow/product-workflows)
+*   [React Flow Triggers and Actions](/react-flow/react-flow-triggers-actions)

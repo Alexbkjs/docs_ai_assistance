@@ -8,23 +8,18 @@ order: 7
 status: published
 ---
 
-Articles on: [Email](/en/category/email-5zq1du/)
 
-# Email Forwarding Conditions
+# Email forwarding conditions
 
-# Email Forwarding Conditions
+To prevent spam and service overload, email forwarding frequency may be throttled via the delivery queue based on your subscription.
 
-To prevent spam and service overload, email message forwarding frequency may be throttled via the delivery queue according to your subscription.
+All Discord applications must respect messaging rate limits to avoid flooding channels or causing issues. We work within Discord's own messaging rules to meet the needs of our community.
 
-Also all Discord applications need to respect how often they send messages to avoid flooding channels or causing issues. And we try to meet the demands of the community. These guidelines help us work within Discord’s own messaging rules.
+**Important:** delivery of emails to Discord channels may be delayed due to technical limitations of the [Discord API](https://discord.com/developers/docs/topics/rate-limits).
 
-Important: delivery of emails to Discord channels may be delayed due to technical limitations of the [Discord API](https://discord.com/developers/docs/topics/rate-limits).
+Email forwarding delivery limits:
 
-Email Forwarding Delivery Conditions:
+*   **2 emails** forwarded per second.
+*   **100 emails** forwarded per minute (this limit may vary depending on your subscription).
 
-*   ****2 email**** forwards per second.
-*   ****100 email**** forwards per minute (this parameter may change depending on your subscription).
-
-If you receive a large number of emails at once, don’t worry — they’ll be placed in a queue and delivered shortly after, without losing any content. This ensures smooth operation without disrupting other servers or exceeding Discord’s global limits.
-
-Updated on: 05/08/2025
+If you receive a large number of emails at once, don't worry — they will be placed in a queue and delivered shortly after, without any content being lost. This ensures smooth operation without disrupting other servers or exceeding Discord's global rate limits.

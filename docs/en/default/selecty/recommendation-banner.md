@@ -8,72 +8,57 @@ order: 13
 status: published
 ---
 
-Articles on: [Selecty](/en/category/selecty-1bapbjb/)
-
-# Recommendation banner
 
 # Recommendation Banner
 
-****In this article:****
+## What is a recommendation banner?
 
-*   [What is a recommendation banner?](#1-what-is-a-recommendation-banner)
-*   [Language detection](#1-language-detection)
-*   [Country and currency detection](#1-country-and-currency-detection)
-*   [Banner customization](#1-banner-customization)
-*   [Useful links](#1-useful-links)
+The app automatically detects a visitor's language, currency, and country. On their first visit, it recommends switching your store to the local language and currency for a seamless shopping experience.
 
-# ✔️ What is a recommendation banner?
-
-The Selecty app automatically detects a visitor's language, currency, and country. On their first visit, it recommends switching your store to the local language and currency for a seamless shopping experience.
-
-Recommendation banner appears on the first visit and suggests visitors use a local language and currency.
+The recommendation banner appears on the first visit and suggests that visitors use their local language and currency.
 
 ![](https://cdn.heymantle.com/docs/screenshots/29f14868-4c4c-4e91-84a2-7e671083f30e/banner_kmmf8d.png)
 
-In this way, customers select their preferred language and currency, making it easier for them to navigate your store and products.
+This allows customers to select their preferred language and currency, making it easier for them to navigate your store and products.
 
-# ✔️ Language detection
+## Language detection
 
-The Selecty app detects languages by the preferred language in the browser.
+The app detects language based on the preferred language set in the visitor's browser.
 
-Note that you can use one language for the browser and another language as preferred. For example, you are from Germany and use German as a browser language. At the same time, you have English as a preferred one.
+Note that a browser can have one default language while the preferred language is set to something different. For example, a visitor from Germany may use German as the browser language but have English set as the preferred language.
 
-You can check your preferred language in your browser.
+You can check the preferred language in your browser settings.
 
-For example, in ****Chrome****, you should go to Setting -> Languages.
+For example, in **Chrome**, go to Settings → Languages.
 
 ![](https://cdn.heymantle.com/docs/screenshots/e6d770b2-c480-44fd-978d-089d14dfcea2/chrome-browser-settings_17x4mlb.png)
 
-In the ****Opera**** browser click on Go to full browser settings in the upper right corner -> scroll until you find a section with Preferred languages.
+In the **Opera** browser, click **Go to full browser settings** in the upper right corner → scroll to the **Preferred languages** section.
 
 ![](https://cdn.heymantle.com/docs/screenshots/83d93170-183a-4699-b484-ac2b9b6bfd90/opera-browser_liv0b4.png)
 
-In the ****Firefox**** browser also click on Settings and scroll until you find the necessary section ****Language****.
+In **Firefox**, click **Settings** and scroll to the **Language** section.
 
 ![](https://cdn.heymantle.com/docs/screenshots/6d48ad12-7049-4a0b-9bbf-947fea9a637c/firefox-browser-settings_1cbzamk.png)
 
-# ✔️ Country and currency detection
+## Country and currency detection
 
-As it was mentioned above, the recommendation banner suggests customers to select their local currency.
+The recommendation banner also suggests that customers switch to their local currency.
 
-Currency is detected by IP address.
+Currency is detected by IP address. Your ISP assigns you an IP address, which the app uses to determine your country of residence. Based on that country, the app identifies the currency most relevant for visitors from that location.
 
-Your ISP assigns you an IP address by which the Selecty application determines your country of residence. Based on country data, the application determines the currency that will be preferred by visitors from that country.
+Country is detected first, then currency. This information appears on the recommendation banner on the first visit.
 
-So, firstly we detect country and then we detect currency. This information appears on the recommendation banner on the first visit.
+## Banner customization
 
-# ✔️ Banner customization
-
-To customize the recommendation banner, open the Selecty admin panel and click ****Customize**** under ****Markets recommendation section****.
+To customize the recommendation banner, open the app admin panel and click **Customize** under the **Markets recommendation** section.
 
 ![](https://cdn.heymantle.com/docs/screenshots/6bd82d53-f615-43bb-8efd-fb3860fcaed2/customize-banner_1xyd1mq.png)
 
-Selecty allows you to set banner's type, view, color scheme, select [resources](/available-resources) that will be displayed on the banner, and [markets recommendation display option](/markets-recommendation-display-option).
+You can set the banner's type, view, and color scheme, select [resources](/selecty/available-resources) to display on the banner, and configure the [markets recommendation display option](/selecty/markets-recommendation-display-option).
 
 ![](https://cdn.heymantle.com/docs/screenshots/3d33706f-171c-4b0c-9ba8-8cffa3848813/settings_1e1allz.png)
 
-# ✔️ Useful links
+## Useful links
 
-*   Check our article to learn more about how to [synchronize your stores](https://help.devit.software/en/article/stores-syncronization-1j6f77q/).
-
-Updated on: 13/02/2026
+*   [How to synchronize your stores](https://help.devit.software/en/article/stores-syncronization-1j6f77q/)

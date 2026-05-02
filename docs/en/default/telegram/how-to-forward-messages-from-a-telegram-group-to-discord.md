@@ -8,51 +8,41 @@ order: 2
 status: published
 ---
 
-Articles on: [Telegram](/en/category/telegram-1urqa6t/)
-
-# How to forward messages from a Telegram group to Discord?
 
 # Forward messages from the Telegram group
 
-****In this article:****
+## Create a Telegram bot and connect it to the Telegram group
 
-*   [Create a Telegram bot and connect it to the Telegram group](#1-create-a-telegram-bot-and-connect-it-to-the-telegram-group)
-*   [Connect Telegram bot to Discord](#1-connect-telegram-bot-to-discord)
+1.  Create your Telegram bot (if you already have a bot, use it to connect to the Telegram group). You can do this using the [BotFather](https://t.me/BotFather) bot on Telegram. For more details, refer to [this article](/telegram/getting-started-with-telegram-bot).
+2.  Add the Telegram bot to the Telegram group:
 
-# ✔️ Create a Telegram bot and connect it to the Telegram group
+*   Open your Telegram group → click on the group title → click **Add Members** and add the bot as a member.
+*   Press on the bot and click **Promote to admin** → click the checkmark in the top-right corner.
 
-1.  Create your Telegram bot (if you already have a bot, use it to connect to the Telegram group). You can do this by using the [BotFather](https://t.me/BotFather) bot on Telegram. For more detailed information, refer to [this article](/getting-started-with-telegram-bot).
-2.  Add the Telegram Bot to the Telegram group:
-
-*   Open your Telegram group -> click on the group title and click ****Add Members**** and add the created bot as a member.
-*   Press on the bot and click on ****Promote to admin**** -> click on the checkmark in the top-right corner.
-
-Note: Providing the bot with admin rights enables it to send messages.
+Note: Granting the bot admin rights allows it to send messages.
 
 ![](https://cdn.heymantle.com/docs/screenshots/ea07a8f0-66c8-4c99-a557-521394badc49/telegram-group_1oj7zcv.png)
 
-# ✔️ Connect Telegram bot to Discord
+## Connect the Telegram bot to Discord
 
-1.  Go back to the [BotFather](https://t.me/BotFather) and copy the bot’s token (if you already have a bot, use its token to connect it to Discord).
-2.  Open the Discord channel where you want to connect the bot -> type the `/connect` command in the text field and send this message.
-3.  Paste the token in the appeared field and click ****Submit****.
+1.  Go back to [BotFather](https://t.me/BotFather) and copy the bot's token (if you already have a bot, use its existing token).
+2.  Open the Discord channel where you want to connect the bot → type the `/connect` command in the text field and send it.
+3.  Paste the token in the field that appears and click **Submit**.
 
-You can find more detailed information about the difference in forwarding to channels and threads in the article - [Message Forwarding](/message-forwarding).
+For more details on the difference between forwarding to channels and threads, see [Message Forwarding](/telegram/message-forwarding).
 
-****Important:**** If the connection to the channel fails, please ensure the bot has the necessary admin permissions or permission to manage webhooks in Discord. To check this, follow these steps:
+**Important:** If the connection fails, ensure the bot has the necessary permissions in Discord:
 
-*   Admin permissions: Server Settings -> Roles -> Edit -> Permissions -> Administrator.
-*   Webhooks permissions: Server Settings -> Roles -> Edit -> Permissions -> Manage Webhooks.
+*   Admin permissions: Server Settings → Roles → Edit → Permissions → Administrator.
+*   Webhook permissions: Server Settings → Roles → Edit → Permissions → Manage Webhooks.
 
-While the bot is connected, you can manage its settings. Just use the `/list` command to open the settings window and click ****Settings****. For example, you can setup where to forward messages from Telegram: to [Discord channels or threads](/message-forwarding). There you can also manage:
+While the bot is connected, you can manage its settings. Use the `/list` command to open the settings window and click **Settings**. For example, you can set up where to forward messages from Telegram — to [Discord channels or threads](/telegram/message-forwarding). You can also manage:
 
-*   [New Message Notification](/new-message-notification)
-*   [Message Filters](/message-filters)
-*   [Greeting Message Notification](/greeting-message-notification)
-*   [Other Settings](/other-settings)
+*   [New Message Notification](/telegram/new-message-notification)
+*   [Message Filters](/telegram/message-filters)
+*   [Greeting Message Notification](/telegram/greeting-message-notification)
+*   [Other Settings](/telegram/other-settings)
 
-Take a moment to explore and make any settings you need.
+Take a moment to explore and adjust any settings you need.
 
-Also, we recommend you to check this article if you need forward messages from a Telegram channel to Discord - [How to forward messages from a Telegram channel to Discord?](/how-to-forward-messages-from-a-telegram-channel-to-discord)
-
-Updated on: 21/05/2025
+If you also need to forward messages from a Telegram channel to Discord, see [How to forward messages from a Telegram channel to Discord?](/telegram/how-to-forward-messages-from-a-telegram-channel-to-discord)

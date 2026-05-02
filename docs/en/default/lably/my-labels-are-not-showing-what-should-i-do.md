@@ -8,42 +8,34 @@ order: 6
 status: published
 ---
 
-Articles on: [Lably](/en/category/lably-fcmteo/)
-
-# My labels are not showing - what should I do?
-
 # Labels are not displayed
 
-There is no universal method for integrating labels into custom themes, as each theme is unique. There are the most common options to check:
+There is no universal method for integrating labels into custom themes, as each theme is unique. Check the most common causes below:
 
-****1.App embeds****
+**1. App embeds**
 
-Check if the Lably app is enabled in your theme’s App embeds.
+Check that the Lably app is enabled in your theme's App embeds.
 
-****2\. Label status****
+**2. Label status**
 
-Check the status of the label. If it’s set to Draft or Unpublished, ****switch it to**** ****Published****.
+Check the status of the label. If it is set to Draft or Unpublished, **switch it to Published**.
 
-****3\. Display settings****
+**3. Display settings**
 
-In the Customization section, check the following options:
+In the Customization section, verify the following options:
 
-,
+*   Week Schedule – check if the label is set to display only on specific days or times.
+*   Visibility on Pages – ensure the label is allowed to appear on the correct store pages.
+*   Display Period – check that the start and end dates include today's date.
 
-*   Week Schedule – check if the label is set for specific days or times.
-*   Visibility on Pages – ensure the label is allowed to appear on the right store pages.
-*   Display Period – check if the start/end dates include the current date.
+**4. Display conditions**
 
-****4\. Display conditions****
+Open the Display Conditions section and review your settings.
 
-Open the Display Conditions section and check settings.
+**5. Custom selectors**
 
-****5\. Custom selectors****
+If you have added a custom selector, it may have been entered incorrectly. See the [Custom Selectors](/lably/can-i-apply-custom-selectors) article for step-by-step instructions and troubleshooting tips.
 
-Perhaps you’ve added a custom selector, and it looks like it was added incorrectly. In our article – [Custom Selectors](/can-i-apply-custom-selectors) - you can find step-by-step instructions on how to install them correctly and a short troubleshooting.
+**6. Contact support**
 
-****6\. Contact support****
-
-If you have completed all the steps above and the label is still not showing up in your store, please contact us: [<u><span style="white-space:pre-wrap" class="csh-markdown csh-markdown-underline">support@devit.software.</span></u>](mailto:support@devit.software.) 
-
-Updated on: 30/09/2025
+If you have completed all the steps above and your labels are still not appearing, please contact us: [<u><span style="white-space:pre-wrap" class="csh-markdown csh-markdown-underline">support@devit.software</span></u>](mailto:support@devit.software).

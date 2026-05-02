@@ -8,77 +8,64 @@ order: 17
 status: published
 ---
 
-Articles on: [ReSell](/en/category/resell-c6d2uz/)
-
-# How to connect PayPal to Shopify?
 
 # Connect PayPal to Shopify
 
-****In this article:****
+A positive user experience is a key factor in the success of your online store. It drives more customers and sales, while negative experiences drive customers away.
 
-*   [What is PayPal Express Checkout](#1-what-is-paypal-express-checkout)
-*   [Advantages of using PayPal Express Checkout](#1-advantages-of-using-paypal-express-checkout)
-*   [Set up PayPal on your Shopify store](#1-set-up-paypal-on-your-shopify-store)
-*   [Generate additional revenue with PayPal Express Checkout](#1-generate-additional-revenue-with-paypal-express-checkout)
+Checkout is one of the most critical moments in the customer journey. Your goal is to make the purchase process as fast, user-friendly, and convenient as possible. PayPal Express Checkout plays a key role in achieving that.
 
-Positive user experience is an important factor that largely determines the success of your online store. It can lead to more customers and sales, while negative experiences turn customers away.
+## What is PayPal Express Checkout
 
-Checkout is one of the key moments in the customer's experience. Therefore, your task is to create the fastest, user-friendly, and convenient conditions for the purchase. The PayPal Express Checkout feature plays a key role in this process.
+[PayPal](https://www.paypal.com/us/home) is one of the largest electronic payment systems, trusted by over 400 million active users for online purchases and money transfers. It lets your customers buy goods and services in your store faster and more easily.
 
-# ✔️ What is PayPal Express Checkout
+[PayPal Express Checkout](https://www.paypal.com/mu/webapps/mpp/express-checkout) allows customers to pay without entering their billing and shipping information manually.
 
-[PayPal](https://www.paypal.com/us/home) is one of the largest electronic payment systems that allows you to make purchases and money transfers on the Internet. It is trusted and used by over 400 million active users. Using PayPal your customers can faster and easier buy goods and services in your online store.
+## Advantages of using PayPal Express Checkout
 
-[PayPal Express Checkout](https://www.paypal.com/mu/webapps/mpp/express-checkout) allows your customers to pay without having to enter their billing and shipping information.
+*   **Secure checkout process.** With PayPal Express, users are redirected to a secure PayPal page to enter their payment details, then returned to your website to complete the checkout. PayPal processes the transaction only after that step.
+*   **Easy to use.** PayPal is one of Shopify's default payment systems, making it straightforward to set up for your store.
+*   **Versatility.** The service is available in 190 countries, supports 25 currencies, and works on mobile, tablet, and desktop.
 
-# ✔️ Advantages of using PayPal Express Checkout
+## Set up PayPal on your Shopify store
 
-*   ****Secure checkout process.**** Using the PayPal Express system, users are redirected to a secure PayPal page where they fill in their payment details. They then return to your website to complete the checkout process. Only after that, PayPal processes the transaction.
-*   ****Easy to use.**** PayPal is one of Shopify’s default payment systems. Therefore, it will be easy to set it up for your store.
-*   ****Versatility.**** The payment service is available in 190 countries and supports 25 currencies. Customers can use it on mobile, tablet or desktop.
+Before creating your PayPal account and connecting it to your store, note that you must create a **PayPal Business account**.
 
-# ✔️ Set up PayPal on your Shopify store
+**Create a PayPal Business account**
 
-Before you start creating your PayPal account and setting up PayPal on your store, please note that you should create ****PayPal Business acсount****.
+1.  Go to PayPal and click **Sign up**, then choose **Business Account** and enter the required information.
 
-****Create PayPal Business account****
-
-1.  Go to PayPal and click on Sign up -> choose ****Business Account**** and enter the required information.
-    
 2.  Add your email address and create a password.
-    
-3.  Choose the type of business and provide a required data.
-    
-4.  Link your bank account to your PayPal account and verify the created account.
-    
 
-****Activate PayPal in Shopify****
+3.  Choose your business type and provide the required data.
 
-Open your Shopify account and go to ****Settings****. Click on ****Payments**** and find the ****Payment Providers**** section. Here you can [set up PayPal on your Shopify store](https://help.shopify.com/en/manual/payments/paypal/set-up-paypal).
+4.  Link your bank account to your PayPal account and verify it.
 
-# ✔️ Generate additional revenue with PayPal Express Checkout
+**Activate PayPal in Shopify**
 
-Shopify provides different opportunities to generate additional revenue for your store. One of them is to increase AOV with post-purchase upsells and [ReSell](https://apps.shopify.com/resell) is a perfect tool for that.
+Open your Shopify account and go to **Settings**. Click **Payments** and find the **Payment Providers** section. From there, you can [set up PayPal on your Shopify store](https://help.shopify.com/en/manual/payments/paypal/set-up-paypal).
 
-The app allows to create various funnels and display them on checkout page, post-purchase offers, and on the Thank you page. Thus, you can recommend your customers relevant goods based on their initial order and purchase history.
+## Generate additional revenue with PayPal Express Checkout
 
-Post-purchase offers needs to be charged automatically. For this you need to ****activate PayPal Express**** and enable [automatic billing](https://help.shopify.com/en/manual/payments/paypal/set-up-paypal#automatic-billing) on your store. Otherwise, offers will not be displayed to customers.
+Shopify provides different ways to generate additional revenue. One of them is increasing your AOV with post-purchase upsells — and ReSell is the perfect tool for that.
 
-To activate PayPal Express, you should be approved by PayPal for **Reference Transactions** (the PayPal feature that allows you to charge customers automatically).
+ReSell lets you create various funnels and display them on the checkout page, in post-purchase offers, and on the Thank you page. You can recommend relevant products to customers based on their initial order and purchase history.
 
-If you're not approved for Reference Transactions with PayPal, your post-purchase offers ****will NOT be shown**** to the customer.
+Post-purchase offers must be charged automatically. To enable this, you need to **activate PayPal Express** and enable [automatic billing](https://help.shopify.com/en/manual/payments/paypal/set-up-paypal#automatic-billing) on your store. Without this, offers will not be displayed to customers.
 
-To check if Automatic payments are enabled, go to Settings of your store and click on Payments > ****Automatic payments****. If it’s disabled, click on the link and follow the instructions.
+To activate PayPal Express, you must be approved by PayPal for **Reference Transactions** — the PayPal feature that enables automatic customer charges.
+
+If you are not approved for Reference Transactions with PayPal, your post-purchase offers **will NOT be shown** to customers.
+
+To check whether automatic payments are enabled, go to your store's **Settings**, click **Payments**, and then check **Automatic payments**. If it is disabled, click the link and follow the instructions.
 
 ![](https://cdn.heymantle.com/docs/screenshots/ba2e42f7-68b6-41e1-b9f3-425de735a5fe/pay-pal-payment_1num8vz.png)
 
-Activate automatic billing in your PayPal account if you want to show post-purchase offers to customers who paid for the order via PayPal.
+Make sure to activate automatic billing in your PayPal account if you want to show post-purchase offers to customers who paid via PayPal.
 
-# ✔️ Next step
+## Next step
 
 Check our articles to learn more about the app's functionality:
 
-*   [Getting started in ReSell](/getting-started-in-resell)
-*   [If customers agree to buy a promoted product, do they need to re-enter their payment info?](/if-customers-agree-to-buy-a-promoted-product-do-they-need-to-re-enter-their-payment-info)
-
-Updated on: 22/10/2025
+*   [Getting started in ReSell](/resell/getting-started-in-resell)
+*   [If customers agree to buy a promoted product, do they need to re-enter their payment info?](/resell/if-customers-agree-to-buy-a-promoted-product-do-they-need-to-re-enter-their-payment-info)

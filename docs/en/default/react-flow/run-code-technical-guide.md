@@ -8,25 +8,12 @@ order: 24
 status: published
 ---
 
-Articles on: [React Flow](/en/category/react-flow-2kjdy9/)
-
-# Run Code Technical Guide
 
 # Run code
 
-This guide explains the [Run Code Action](/run-code), a tool for executing JavaScript in workflows to process data and generate outputs. It includes setup instructions, usage details, debugging tips, examples, and known limitations.
+This guide explains the [Run Code Action](/react-flow/run-code), a tool for executing JavaScript in workflows to process data and generate outputs. It includes setup instructions, usage details, debugging tips, examples, and known limitations.
 
-****In this article:****
-
-*   [Runtime Environment & System APIs](#1-runtime-environment-&-system-apis)
-*   [GraphQL service ($graphql)](#1-graphql-service-$-graphql)
-*   [Context ($context)](#1-context-$-context)
-*   [Fetch (fetch)](#1-fetch-fetch)
-*   [Console.log](#1-console-log)
-*   [Output data](#1-output-data)
-*   [Limitations](#1-limitations)
-
-# ✔️ Runtime Environment & System APIs
+# Runtime Environment & System APIs
 
 The following are key runtime environment variables that can be used during execution to manage data, interact with external sources, and loop through items.
 
@@ -36,7 +23,7 @@ The following system APIs are available for use in the runtime environment for m
 
 <table class="csh-markdown csh-markdown-table"><colgroup><col><col></colgroup><tbody><tr class="csh-markdown csh-markdown-table-row"><td class="csh-markdown csh-markdown-table-cell"><p><span></span><b><strong style="white-space:pre-wrap" class="csh-markdown csh-markdown-bold csh-font-sans-medium">Name</strong></b><span></span></p></td><td class="csh-markdown csh-markdown-table-cell"><p><span></span><b><strong style="white-space:pre-wrap" class="csh-markdown csh-markdown-bold csh-font-sans-medium">Description</strong></b><span></span></p></td></tr><tr class="csh-markdown csh-markdown-table-row"><td class="csh-markdown csh-markdown-table-cell"><p><span></span><b><strong style="white-space:pre-wrap" class="csh-markdown csh-markdown-bold csh-font-sans-medium">fetch</strong></b><span></span></p></td><td class="csh-markdown csh-markdown-table-cell"><p><span>Standard </span><code spellcheck="false"><span class="csh-markdown csh-markdown-code csh-markdown-code-inline csh-font-code-regular">fetch</span></code><span> function for making HTTP requests within the runtime environment.</span></p></td></tr><tr class="csh-markdown csh-markdown-table-row"><td class="csh-markdown csh-markdown-table-cell"><p><span></span><b><strong style="white-space:pre-wrap" class="csh-markdown csh-markdown-bold csh-font-sans-medium">console.log</strong></b><span></span></p></td><td class="csh-markdown csh-markdown-table-cell"><p><span>Standard logging function to output messages for debugging purposes during execution.</span></p></td></tr></tbody></table>
 
-# ✔️ GraphQL Service ($graphql)
+# GraphQL Service ($graphql)
 
 The $graphql service is a powerful runtime utility that simplifies interactions with the Shopify Admin GraphQL API. It provides a clean, structuredway to execute queries and mutations, abstracting away complex request handling while maintaining flexibility.
 
@@ -83,7 +70,7 @@ tags: data?.tagsAdd?.node?.tags ?? \[\],
 };  
 })();
 
-# ✔️ Fetch (fetch)
+# Fetch (fetch)
 
 The Fetch API lets you make `HTTP` requests to interact with external services, such as fetching or sending data using methods like `GET`, `POST`, `PUT`, and `DELETE`. In this environment, the response data is already parsed and available in `response.data`, so you can use it directly without extrasteps. The API works asynchronously, returning a Promise.
 
@@ -127,7 +114,7 @@ console.error(\`Error message:${err?.message}\`);
 }  
 })();
 
-# ✔️ Console.log
+# Console.log
 
 The `console.log` function outputs messages, variables, or data to the workflow’s Server logs for debugging and monitoring code execution. Logsappear in the Server logs section of the workflow result interface, helping you track and diagnose issues efficiently. For example the following arevalid:
 
@@ -141,7 +128,7 @@ console.log(input); // { order: { id: 1, items: \[ { name: 'Book' } \] } }
 
 You can also use `console.warn` for warnings and `console.error` for errors to clearly distinguish and categorize output messages.
 
-# ✔️ Output data
+# Output data
 
 The Run code action allows you to return custom data as a result of its execution. To specify the structure and types of this returned data, use theOutput field with GraphQL’s `Schema Definition Language (SDL)`. The supported scalar types include `String`, `Int`, `Float`, `Boolean`, which follow `SDL` conventions for marking fields as required, defining lists, or creating custom types.
 
@@ -188,7 +175,7 @@ displayName: String
 sum: Int  
 }
 
-# ✔️ Limitations
+# Limitations
 
 The Run code action has the following limitations:
 
@@ -201,4 +188,3 @@ The Run code action has the following limitations:
 *   Total execution duration is limited to `70` seconds.
 *   Memory usage is limited to `10MB`.
 
-Updated on: 02/03/2026

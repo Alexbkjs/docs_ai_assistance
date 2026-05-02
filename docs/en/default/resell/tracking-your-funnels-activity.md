@@ -8,41 +8,30 @@ order: 18
 status: published
 ---
 
-Articles on: [ReSell](/en/category/resell-c6d2uz/)
-
-# Tracking your funnels activity
 
 # Check Analytics Data
 
-****In this article:****
+ReSell provides advanced analytics for all your funnels, including the revenue each one generates. To view analytics, click **Analytics** in the admin panel.
 
-*   [Sales Analytics](#1-sales-analytics)
-*   [Funnels](#1-funnels)
-*   [Next step](#1-next-step)
+## Sales Analytics
 
-The ReSell application provides an advanced analysis of all funnels and revenue they bring. To check the analytics data, click ****Analytics**** in the admin panel.
+Here you will see graphs displaying statistics for all funnels. Select the time period you want to review and check the following metrics:
 
-# ✔️ Sales Analytics
-
-Here you will see graphs that display statistics for all funnels. Select time period you want to see and check the following data:
-
-*   ****Total upsell revenue**** - funnels revenue for the specified time. The cost of the original order is excluded.
-*   ****Total conversion**** - percentage of the total number of funnels that ended with a successful upsell.
-*   ****Total decline rate**** - number of offers declined by customers.
-*   ****Total views**** - the number of times when the funnel was shown to customers.
-*   ****Accepted offers**** - list of the accepted offers.
+*   **Total upsell revenue** — funnel revenue for the specified period. The cost of the original order is excluded.
+*   **Total conversion** — the percentage of funnels that resulted in a successful upsell.
+*   **Total decline rate** — the number of offers declined by customers.
+*   **Total views** — the number of times the funnel was shown to customers.
+*   **Accepted offers** — a list of accepted offers.
 
 ![](https://cdn.heymantle.com/docs/screenshots/bf98c76b-72ed-42b5-9ba0-2c6f12296dc9/analytics_9eihp7.png)
 
-# ✔️ Funnels
+## Funnels
 
-In the Funnels section, you can see the results of each funnel separately. To check the funnel data, click on the funnel you are interested in and you will see the information about the funnel and its stats.
+In the Funnels section, you can view the results of each funnel individually. Click on a funnel to see its details and performance stats.
 
-# ✔️ Next step
+## Next step
 
 Check our articles to learn more about the app's functionality:
 
-*   [How many offers can I show to my customer?](/how-many-offers-can-i-show-to-my-customer)
-*   [What is the offer sequence?How additional products will be shown to customers?](/what-is-the-offer-sequence-how-additional-products-will-be-shown-to-customers)
-
-Updated on: 22/10/2025
+*   [How many offers can I show to my customer?](/resell/how-many-offers-can-i-show-to-my-customer)
+*   [What is the offer sequence? How additional products will be shown to customers?](/resell/what-is-the-offer-sequence-how-additional-products-will-be-shown-to-customers)
