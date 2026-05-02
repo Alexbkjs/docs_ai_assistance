@@ -13,4 +13,4 @@ status: published
 
 We provide a free trial period during which you can test all features at no charge.
 
-Note that if you exceed the run limit, usage fees will be charged even during the trial period. After the trial period ends, you will be charged for the first month. If you uninstall the application before the trial period concludes, no charges will apply. You can also book a demo of the application at any time — our manager will call you at the agreed time and gladly walk you through the app.
+Note that if you exceed the run limit, usage fees will be charged even during the trial period. After the trial period ends, you will be charged for the first month. If you uninstall the application before the trial period concludes, no charges will apply. You can also book a demo at any time — our manager will call you at the agreed time and walk you through the app.

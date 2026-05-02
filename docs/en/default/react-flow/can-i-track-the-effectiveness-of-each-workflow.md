@@ -13,4 +13,4 @@ status: published
 
 Yes. The app has an Activity page where you can see the results of each workflow, including information about executed and failed actions. This helps you understand which workflows are performing well and which need improvement.
 
-Check our guide if you need more information about the [Activity Page](/react-flow/activity-page).
+Check our guide for more information about the [Activity Page](/react-flow/activity-page).

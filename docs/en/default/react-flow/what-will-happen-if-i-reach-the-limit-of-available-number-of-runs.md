@@ -11,11 +11,10 @@ status: published
 
 # Limit of Runs
 
-If you reach the limit, your workflow will continue working. However, each subsequent launch over the limit will cost an additional usage fee (according to your subscription plan).
+If you reach the limit, your workflows will continue running. However, each execution beyond the limit will incur an additional usage fee based on your subscription plan.
 
-**Note** that usage fees will be charged even during the trial period.
+**Note:** usage fees are charged even during the trial period.
 
-You can find the most complete information about limits in our article. Follow the link below.
+You can find complete information about limits in the article linked below.
 
 [React Flow Limitations](/react-flow/guidelines-and-limitations)
-

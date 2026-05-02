@@ -9,8 +9,6 @@ status: published
 ---
 
 
-Subscription
-
 # Upgrade / Downgrade Subscription Plans
 
 Yes. You can upgrade or downgrade your plan at any time. On the Plans page inside the app, you will find all available plans — select the one that suits you best.

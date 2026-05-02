@@ -11,20 +11,19 @@ status: published
 
 # Connect Xero Account to React Flow
 
-# What is Xero?
+## What is Xero?
 
-[Xero](https://www.xero.com/) is cloud-based accounting software—basically a modern bookkeeping and finance hub for small and medium businesses.
+[Xero](https://www.xero.com/) is cloud-based accounting software — a modern bookkeeping and finance hub for small and medium businesses.
 
-# How to connect Xero with React Flow?
+## How to connect Xero with React Flow?
 
-1.  Open the React Flow app -> **Connectors tab** -> click on **Xero**.
+1.  Open the React Flow app → **Connectors tab** → click on **Xero**.
 2.  (optional) Enter the name and description of the connector.
-3.  Click **Connect to Xero** -> **Allow access**.
-4.  Click on Test if you want to test this connection.
+3.  Click **Connect to Xero** → **Allow access**.
+4.  Click **Test** if you want to verify this connection.
 
 ![](https://cdn.heymantle.com/docs/screenshots/044debea-d391-4074-8ed0-b26db6ef1709/xero-connector_1gyhv4u.png)
 
-# Useful link
+## Useful link
 
 *   Learn more about all [Available React Flow connectors](/react-flow/react-flow-connectors).
-

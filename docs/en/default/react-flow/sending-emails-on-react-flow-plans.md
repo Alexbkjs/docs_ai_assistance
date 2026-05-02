@@ -11,21 +11,18 @@ status: published
 
 # Plans Limitations
 
-# About limits
+## About limits
 
-React Flow provides a limit for sending emails for Standard, Professional, and Unlimited plans.
+React Flow enforces a daily email sending limit for Standard, Professional, and Unlimited plans.
 
-Namely, you can send **500 emails per day**.
+You can send **500 emails per day**.
 
-We value our clients and are committed to providing a secure and respectful experience. To safeguard against potential spam or fraudulent activity through our application, we have implemented restrictions on email sending.
-
-We understand that there are situations when you may need more than 500 emails. In this case, you can increase the limit.
+To protect against spam or fraudulent activity, we have implemented restrictions on email sending. We understand that in some cases you may need to send more than 500 emails per day — in that case, you can request a limit increase.
 
 Note: sending emails through your [connector](/react-flow/react-flow-connectors) remains unlimited.
 
-# How to increase the limit?
+## How to increase the limit?
 
-To increase the limit, you should [contact our support](/if-i-have-questions-or-problems-using-the-app-can-i-get-help) via chat or email. Our managers will check your workflow -> if everything is fine, your limit will be increased.
+To increase the limit, [contact our support](/if-i-have-questions-or-problems-using-the-app-can-i-get-help) via chat or email. Our team will review your workflow → if everything looks good, your limit will be increased.
 
-Important! If we suspect sending spam, we reserve the right to lower the limit of emails.
-
+**Important:** if we detect spam activity, we reserve the right to reduce your email limit.
