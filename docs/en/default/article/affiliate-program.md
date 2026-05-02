@@ -49,7 +49,6 @@ Our affiliate program allows you to earn up to **40%** in recurring commissions 
 # ✔️ How to start earning with us?
 
 1.  Choose a program and plan:
-    
 
 *   [Resell](https://affiliates.heymantle.com/aff/marketplace/0ef2b9c0-3be1-459c-a3db-d5464b80b087)
     
@@ -65,12 +64,10 @@ Our affiliate program allows you to earn up to **40%** in recurring commissions 
 ![](https://cdn.heymantle.com/docs/screenshots/0c40db5b-6966-46cc-bb75-2ff9b51a6e45/resellimage_1hwh1zp.png)
 
 2.  Become an affiliate member.
-    
 
 ![](https://cdn.heymantle.com/docs/screenshots/39b86f9f-5c67-473b-afb1-228565c1efbd/affiliate-member_1qdab4v.png)
 
 3.  Get a unique referral link by clicking on **Share affiliate link** in your Dashboard.
-    
 
 ![](https://cdn.heymantle.com/docs/screenshots/d0318043-cc65-4eda-9cfe-458ee85dd54e/share-affiliate-link_u7aikw.png)
 
