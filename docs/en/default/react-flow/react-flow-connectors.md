@@ -8,6 +8,7 @@ order: 5
 status: published
 ---
 
+* * *
 
 # React Flow Connectors
 
@@ -22,15 +23,25 @@ status: published
 Here is a list of available connectors with the detailed instructions how to setup each of them:
 
 *   [SMTP connector](/react-flow/send-email-with-smtp-connector)
+    
 *   [SMTP - Yahoo](/react-flow/send-email-with-smtp-connector)
+    
 *   [Twilio](/react-flow/send-sms-and-whatsapp-messages-with-twilio)
+    
 *   [Asana](/react-flow/create-tasks-with-asana)
+    
 *   [Google](/react-flow/google-email-hosting-provider)
+    
 *   [Slack](/react-flow/slack-connector)
+    
 *   [Mailchimp](/react-flow/mailchimp-connector)
+    
 *   [Xero](/react-flow/xero-connector)
+    
 *   [Microsoft](/react-flow/microsoft-connector-with-outlook-service)
+    
 *   [Judge.me Review](/react-flow/judge-me-reviews-connector)
+    
 
 # Need Help?
 
@@ -39,5 +50,5 @@ To get more info about how to set up connectors, please contact our support team
 ## Suggested articles:
 
 *   [React Flow Templates](/react-flow/react-flow-templates)
+    
 *   [Scheduled triggers in React Flow](/react-flow/scheduled-triggers-in-react-flow)
-
